@@ -67,10 +67,14 @@ deteccion-anomalias-contugas/
 │   └── tabla_requerimientos.xlsx
 ├── docs/
 │   └── documento_tecnico_experimentos.pdf
-├── notebooks/
-│   ├── analisis_exploratorio.ipynb
-│   ├── entrenamiento_modelos.ipynb
-│   └── evaluacion_resultados.ipynb
+│   └── manual_usuario.docx
+├── codigo/
+│   ├── Calidad_datos y etiquetas_manuales.ipynb
+│   ├── Modelo_anomalias.ipynb
+│   ├── modelo_isolation_cluster_0.pkl
+│   ├── modelo_isolation_cluster_1.pkl
+│   ├── modelo_isolation_cluster_2.pkl
+│   ├── modelo_isolation_cluster_3.pkl
 ├── data/
 │   ├── raw/
 ```
