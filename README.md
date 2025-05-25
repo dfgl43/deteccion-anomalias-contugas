@@ -61,6 +61,7 @@ El sistema procesa mediciones horarias que incluyen:
 
 ```
 deteccion-anomalias-contugas/
+├── LICENSE
 ├── README.md
 ├── tabla_requerimientos/
 │   └── tabla_requerimientos.xlsx
