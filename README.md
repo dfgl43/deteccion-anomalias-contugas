@@ -77,7 +77,7 @@ deteccion-anomalias-contugas/
 │   ├── modelo_isolation_cluster_3.pkl
 ├── data/
 │   ├── raw/
-│   └── datos.xlsx
+│       └── datos.xlsx
 ```
 
 ## 💼 Impacto Empresarial
